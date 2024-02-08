@@ -10,7 +10,7 @@ const blogArtical = () => {
     </div>
     <div className="md:grid grid-cols-2 gap-16 my-8">
         <div>
-            <img className="h-full object-cover md:my-0 my-12" src="https://c4.wallpaperflare.com/wallpaper/1022/53/128/ultra-wide-car-nissan-skyline-gt-r-wallpaper-preview.jpg" alt="" />
+            <img className="md:h-full h-64 object-cover md:my-0 my-12" src="https://c4.wallpaperflare.com/wallpaper/1022/53/128/ultra-wide-car-nissan-skyline-gt-r-wallpaper-preview.jpg" alt="" />
         </div>
         <div>
             <img className="h-full object-cover" src="https://c4.wallpaperflare.com/wallpaper/956/868/1012/car-nissan-race-cars-road-wallpaper-preview.jpg" alt="" />
