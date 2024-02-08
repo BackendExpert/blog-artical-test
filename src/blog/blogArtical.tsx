@@ -13,7 +13,7 @@ const blogArtical = () => {
           <img src="https://wallpapercave.com/wp/wp2707503.jpg" alt="" className="" />
         </div>
         <div>
-          <img src="" alt="" className="" />
+          <img src="https://wallpapercave.com/wp/wp2707510.jpg" alt="" className="" />
         </div>
       </div>
     </div>
