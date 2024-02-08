@@ -1,7 +1,7 @@
 const blogArtical = () => {
   return (
-    <div className="container ">
-
+    <div className="container mx-auto px-16">
+        hi all
     </div>
   )
 }
