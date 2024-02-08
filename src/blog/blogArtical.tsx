@@ -23,7 +23,7 @@ const blogArtical = () => {
         </div>
       </div>
       
-      <div className="md:mt-36 rounded-3xl bg-blue-900 text-white py-2 px-4 w-1/6 flex ml-[42%]">        
+      <div className="md:mt-36 rounded-3xl bg-blue-900 text-white py-2 px-4 md:w-1/6 w-auto flex md:ml-[42%]">        
         <span className="pl-8 ml">View blog Articles </span>
         <span className="font-semibold pt-[3px] pl-2 "><IonIcon name="chevron-forward-circle-outline" /></span>
       </div>
