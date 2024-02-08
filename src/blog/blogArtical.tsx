@@ -17,6 +17,9 @@ const blogArtical = () => {
         </div>
         <div>
           <img src="https://wallpapercave.com/wp/wp2707510.jpg" alt="" className="h-full" />
+          <p className="mt-2">Awareness</p>
+          <p className="">Stop the next Pandemic? Stop illegal trade!</p>
+          <p className=""><a href="">Read Article <IonIcon name="arrow-forward" /></a></p>
         </div>
       </div>
     </div>
