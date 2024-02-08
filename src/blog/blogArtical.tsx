@@ -5,7 +5,7 @@ const blogArtical = () => {
   return (
     <div className="container mx-auto px-16 py-">
         <div className="text-center">
-        <h1 className="">Recent Scientific Publication</h1>
+        <h1 className="pt-12 pb-2 text-3xl">Recent Scientific Publication</h1>
         <p className="">Advancing the frontiers of fundamental research</p>
         </div>
         <div className="md:grid grid-cols-2 gap-16 my-8">
