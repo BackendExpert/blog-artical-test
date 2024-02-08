@@ -11,6 +11,9 @@ const blogArtical = () => {
     <div className="md:grid grid-cols-2 gap-16 my-8">
         <div>
             <img className="md:h-full h-64 object-cover md:my-0 my-12" src="https://c4.wallpaperflare.com/wallpaper/1022/53/128/ultra-wide-car-nissan-skyline-gt-r-wallpaper-preview.jpg" alt="" />
+            <p className="">Awareness</p>
+            <p className="">Stop the next pandemic? Stop illegal trade!</p>
+            <p className=""><a href=""> Read More <IonIcon name="arrow-forward" /></a></p>            
         </div>
         <div>
             <img className="md:h-full h-64 object-cover md:my-0 my-12" src="https://c4.wallpaperflare.com/wallpaper/956/868/1012/car-nissan-race-cars-road-wallpaper-preview.jpg" alt="" />
