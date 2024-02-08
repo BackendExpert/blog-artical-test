@@ -3,7 +3,7 @@ import IonIcon from "@reacticons/ionicons"
 
 const blogArtical = () => {
   return (
-    <div className="container mx-auto px-10">
+    <div className="container mx-auto px-10 mb-20">
       <div className="text-center my-12">
         <h1 className="text-4xl font-semibold py-2">Recent Scientific Publication</h1>
         <p className="text-xl">Advancing the frontiers of fundamental research</p>
@@ -22,7 +22,7 @@ const blogArtical = () => {
           <p className="text-blue-500"><a href="">Read Article <IonIcon name="arrow-forward" /></a></p>
         </div>
       </div>
-        <span className="rounded-2xl bg-blue-800 text-white py-2 px-8 md:ml-[43%] ml-[15%] mb-20">Read Blog Articles</span>
+        <span className="rounded-2xl bg-blue-800 text-white py-2 px-8 md:ml-[43%] ml-[15%]">Read Blog Articles</span>
     </div>
   )
 }
