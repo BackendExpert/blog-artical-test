@@ -10,10 +10,10 @@ const blogArtical = () => {
       </div>
       <div className="grid grid-cols-2 gap-4">
         <div>
-          <img src="https://wallpapercave.com/wp/wp2707503.jpg" alt="" className="" />
+          <img src="https://wallpapercave.com/wp/wp2707503.jpg" alt="" className="h-full" />
         </div>
         <div>
-          <img src="https://wallpapercave.com/wp/wp2707510.jpg" alt="" className="" />
+          <img src="https://wallpapercave.com/wp/wp2707510.jpg" alt="" className="h-full" />
         </div>
       </div>
     </div>
