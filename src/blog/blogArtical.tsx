@@ -8,7 +8,7 @@ const blogArtical = () => {
         <h1 className="text-4xl font-semibold py-2">Recent Scientific Publication</h1>
         <p className="text-xl">Advancing the frontiers of fundamental research</p>
       </div>
-      <div className="md:grid grid-cols-2 gap-16 mt-8 mb-36">
+      <div className="md:grid grid-cols-2 gap-16 mt-8 md:mb-36 mb-8">
         <div className="md:my-0 my-8">
           <img src="https://wallpapercave.com/wp/wp2707503.jpg" alt="" className="h-full rounded" />
           <p className="mt-2 text-sm">Awareness</p>
@@ -22,7 +22,7 @@ const blogArtical = () => {
           <p className="text-blue-500"><a href="">Read Article <IonIcon name="arrow-forward" /></a></p>
         </div>
       </div>
-        <span className="rounded-2xl bg-blue-800 text-white py-2 px-8 ml-[43%]">Read Blog Articles</span>
+        <span className="rounded-2xl bg-blue-800 text-white py-2 px-8 md:ml-[43%] ml-[15%] mb-20">Read Blog Articles</span>
     </div>
   )
 }
