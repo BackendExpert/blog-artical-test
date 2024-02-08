@@ -22,7 +22,7 @@ const blogArtical = () => {
           <p className="text-blue-500"><a href="">Read Article <IonIcon name="arrow-forward" /></a></p>
         </div>
       </div>
-        <span className="rounded-2xl bg-blue-800 text-white py-2 px-8 md:ml-[43%] ml-[15%]">Read Blog Articles</span>
+        <a href=""><span className="rounded-2xl bg-blue-800 text-white py-2 px-8 md:ml-[43%] ml-[15%]">Read Blog Articles</span></a>
     </div>
   )
 }
