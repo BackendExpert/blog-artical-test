@@ -22,8 +22,9 @@ const blogArtical = () => {
           <p className="text-blue-500"><a href="">Read Article <IonIcon name="arrow-forward" /></a></p>
         </div>
       </div>
-      <div className="md:mt-28">
-        <span className="rounded-sm bg-blue-900 text-white py-2 px-4">View blog Articles <span className="font-semibold h-8 w-12"><IonIcon name="chevron-forward-circle-outline" /></span></span>
+      <div className="md:mt-28 rounded-3xl bg-blue-900 text-white py-2 px-4 flex w-auto">
+        <span className="">View blog Articles </span>
+        <span className="font-semibold pt-[3px] pl-2"><IonIcon name="chevron-forward-circle-outline" /></span>
       </div>
     </div>
   )
