@@ -6,7 +6,7 @@ const blogArtical = () => {
     <div className="container mx-auto px-10">
       <div className="text-center my-12">
         <h1 className="text-4xl font-semibold py-2">Recent Scientific Publication</h1>
-        <p className="">Advancing the frontiers of fundamental research</p>
+        <p className="text-xl">Advancing the frontiers of fundamental research</p>
       </div>
       <div className="md:grid grid-cols-2 gap-16 my-8">
         <div className="md:my-0 my-8">
