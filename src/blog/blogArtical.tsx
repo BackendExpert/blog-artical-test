@@ -1,4 +1,4 @@
-
+import IonIcon from "@reacticons/ionicons"
 
 const blogArtical = () => {
   return (
