@@ -6,7 +6,11 @@ const blogArtical = () => {
         <p className="">Advancing the frontiers of fundamental research</p>
     </div>
     <div className="md:grid md:grid-cols-2 gap-2 my-12">
-        <div>Div1</div>
+        <div>
+            <div>
+
+            </div>
+        </div>
         <div>Div1</div>        
     </div>
 
