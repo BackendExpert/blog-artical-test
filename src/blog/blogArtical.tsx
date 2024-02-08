@@ -8,16 +8,13 @@ const blogArtical = () => {
         <h1 className="">Recent Scientific Publication</h1>
         <p className="">Advancing the frontiers of fundamental research</p>
     </div>
-    <div className="md:grid grid-cols-2 gap-4">
+    <div className="md:grid grid-cols-2 gap-20">
         <div>
-             
- 
-        <div className="h-96 bg-[url(https://placekitten.com/1400)] bg-no-repeat">
-        
+            <img className="h-72 object-cover" src="https://c4.wallpaperflare.com/wallpaper/1022/53/128/ultra-wide-car-nissan-skyline-gt-r-wallpaper-preview.jpg" alt="" />
         </div>
- 
+        <div>
+            <img className="h-72 object-cover" src="https://c4.wallpaperflare.com/wallpaper/956/868/1012/car-nissan-race-cars-road-wallpaper-preview.jpg" alt="" />
         </div>
-        <div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut animi, aliquid similique earum est odio, error adipisci laborum assumenda aperiam veniam debitis optio placeat fugit excepturi hic, quisquam asperiores eum?</div>
     </div>
 
 
