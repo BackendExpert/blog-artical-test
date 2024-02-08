@@ -8,7 +8,7 @@ const blogArtical = () => {
         <h1 className="">Recent Scientific Publication</h1>
         <p className="">Advancing the frontiers of fundamental research</p>
     </div>
-    <div className="md:grid grid-cols-2 gap-2">
+    <div className="md:grid md:grid-cols-2 gap-20">
         <div>
             <div className="bg-cover bg-center w-full h-full" style={{backgroundImage:"url('https://www.hdcarwallpapers.com/thumbs/2024/porsche_taycan_2024_4k-t1.jpg')"}}>
             </div>
@@ -24,6 +24,7 @@ const blogArtical = () => {
             <div className="bg-cover bg-center w-full h-96" style={{backgroundImage:"url('https://www.hdcarwallpapers.com/thumbs/2024/audi_q7_55_tfsi_quattro_s_line_2024-t1.jpg')"}}>
                 hi all
             </div>
+            
         </div>        
     </div>
 
